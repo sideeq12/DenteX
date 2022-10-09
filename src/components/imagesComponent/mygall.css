@@ -1,0 +1,16 @@
+div.gall{
+    position: absolute;
+    top:  100px;
+    margin-top: 50px;
+    width: 100vw;
+    z-index: -2;
+    background-color: black;
+    display:flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+div.gall img{
+    width: 50%;
+    text-align: right;
+}

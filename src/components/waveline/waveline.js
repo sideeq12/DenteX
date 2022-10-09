@@ -10,8 +10,8 @@ function Waveline() {
 stroke="rgb(139, 19, 209)"
 initial={{strokeOpacity : 0 , pathLength : 0 ,pathOffset : 1 }} 
 animate={{strokeOpacity : 1 , pathLength : 1 , pathOffset : 0}}
-transition={{duration : 2 , ease : 'easeInOut'}}
-strokeWidth="2"/>
+transition={{duration : 2 , ease : 'easeInOut', delay : "2"}}
+strokeWidth="5"/>
 </svg>
   )
 }

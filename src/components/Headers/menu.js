@@ -5,9 +5,9 @@ const Menu = () => {
   return (
     <div className='menu'>
         <ul>
-            <li>Home</li>
-            <li>About</li>
-            <li>Skills</li>
+            <li>DenteX</li>
+            <li>Arts</li>
+            <li>ShowRoom</li>
         </ul>
         </div>
   )
